@@ -1,5 +1,5 @@
 /*
- * @yaswanth Developer
+ * @author Thanmay
  * @version 7.0
  */
 public class OOPSBannerApp {
